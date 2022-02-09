@@ -1,2 +1,2 @@
 # expressapp
-An app made with Node and Express for a college task
+Firt app made with Express in Node.js
