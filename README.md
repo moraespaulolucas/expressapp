@@ -1,2 +1,2 @@
 # expressapp
-Firt app made with Express in Node.js
+First app made with Express in Node.js
